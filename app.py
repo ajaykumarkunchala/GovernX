@@ -23,3 +23,5 @@ if __name__ == "__main__":
 ##calculate the risk
 ##Add risk history API
 ##Add risk filtering API
+##Improve database operations
+##Add API error handling
